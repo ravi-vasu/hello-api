@@ -50,4 +50,4 @@ jobs:
           app-name: 'demoravi'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A090F72B9A04006949FCC2B7956C84E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19FD80ADCF66414D8880C9C5F991B446 }}
